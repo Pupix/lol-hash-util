@@ -1,0 +1,27 @@
+{
+    "name": "lol-hash-util",
+    "license": "MIT",
+    "description": "A bunch of functions used to create unsigned 32 bit integer hashes for League of Legends.",
+    "version": "0.9.0",
+    "homepage": "https://github.com/Pupix/lol-hash-util",
+    "author": {
+        "name": "Robert Manolea",
+        "email": "manolea.robert@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Pupix/lol-hash-util.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Pupix/lol-hash-util/issues"
+    },
+    "dependencies": {
+        "expandjs": "^0.9.0"
+    },
+    "keywords": [
+        "hash creator",
+        "league of legends",
+        "lol",
+        "util"
+    ]
+}
